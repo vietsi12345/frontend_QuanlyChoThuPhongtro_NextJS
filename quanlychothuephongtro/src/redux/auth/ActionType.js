@@ -1,0 +1,9 @@
+export const actionTypes = {
+    GET_USER_BY_JWT: "GET_USER_BY_JWT",
+    GET_USER_BY_ID: "GET_USER_BY_ID",
+    GET_ALL_USER: "GET_ALL_USER",
+    SIGN_IN: "SIGN_IN",
+    SIGN_UP: "SIGN_UP",
+    LOG_OUT: "LOG_OUT",
+    UPDATE_PASSWORD: "UPDATE_PASSWORD"
+}
